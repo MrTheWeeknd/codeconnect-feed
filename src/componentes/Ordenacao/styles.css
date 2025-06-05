@@ -1,0 +1,18 @@
+.ordenacao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4em;
+    margin: 1.5em 0 1em 0;
+}
+
+.ordenacao__categoria{
+    color: var(--cinza-medio);
+    padding: 1px;
+    font-size: 20px;
+}
+
+.categoria__ativa{
+    color: var(--verde-destaque);
+    text-decoration: underline;
+}
